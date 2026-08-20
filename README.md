@@ -17,7 +17,7 @@ Schemat połączenia: <img width="1386" height="695" alt="1" src="https://github
 <h6>W ramach sprostowania to <img width="81" height="29" alt="image" src="https://github.com/user-attachments/assets/52aef62e-f8ac-4420-a828-addfddd54bfe" />
  jest rezystor 10k Omów a to <img width="86" height="28" alt="image" src="https://github.com/user-attachments/assets/760fb902-7d58-4248-95ed-3a42392996d1" /> rezystor 4.7k Omów.
 
-Ogolnie to niestety w środowisku tinkercad nie da się łądnie wcisnąć rezystorów więc te 4.7KOmów są na schemacie podłączone kabelkami, ale Ty w swoim projekcie masz je wczepić normalnie nóżkami w otwory na płytce stykowej. I na samym dole płytki stykowej tam gdzie jest masa GND to tak zgadza się rezystoryy 10KOmów idą z kanału 2 oraz kanału 8 do GND. 
+Ogolnie to niestety w środowisku tinkercad nie da się łądnie wcisnąć rezystorów więc te 4.7KOmów są na schemacie podłączone kabelkami, ale Ty w swoim projekcie masz je wczepić normalnie nóżkami w otwory na płytce stykowej. I na samym dole płytki stykowej tam gdzie jest masa GND to tak zgadza się rezystoryy 10KOmów idą z kanału 2 oraz z kanału 8 do GND. 
 
 Pamietaj jeszcze, żeby wszystko było wcisnięte oraz rezystor nie dotykał rezystora.
 </h6>
