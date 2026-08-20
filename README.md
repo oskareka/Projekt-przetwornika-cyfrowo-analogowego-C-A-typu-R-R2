@@ -14,7 +14,9 @@ Projekt składa się z:
 - Kabelki połączeniowe.
 
 Schemat połączenia: <img width="1386" height="695" alt="1" src="https://github.com/user-attachments/assets/e6b51923-950d-42ba-a704-11dec816ac41" /> (Schemat wykonany za pomocą https://www.tinkercad.com/)
-<h6>W ramach sprostowania to <img width="96" height="24" alt="image" src="https://github.com/user-attachments/assets/5ff931ab-d451-4377-8e74-604863009e84" /> jest rezystor 10kOmów a to <img width="91" height="25" alt="image" src="https://github.com/user-attachments/assets/016b1346-b910-4934-bf6e-81d6a49dcd6d" />
+<h6>W ramach sprostowania to <img width="81" height="29" alt="image" src="https://github.com/user-attachments/assets/52aef62e-f8ac-4420-a828-addfddd54bfe" />
+ jest rezystor 10kOmów a to <img width="86" height="28" alt="image" src="https://github.com/user-attachments/assets/760fb902-7d58-4248-95ed-3a42392996d1" />
+
  rezystor 4.7k Omów.
 
 </h6>
