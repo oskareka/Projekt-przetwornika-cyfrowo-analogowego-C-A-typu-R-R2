@@ -1,6 +1,12 @@
 # Projekt-przetwornika-cyfrowo-analogowego-C-A-typu-R-R2
 Przetwornik jest 4 bitowy, dwu kanałowy. Stwożony do wyświetlania prostych obrazów i animacji na oscyloskopie. Przetfornik dysponuje 16 stanami napięcia od 0-15 na 2 kanałach X oraz Z, co umożliwia tworzenie prostych obrazów i animacji na np. oscyloskopie. 256x256. 
 
+Po co?
+Ogolnie da się na oscyloskopie wyświetlić jakiś obraz i da się to zrobić z arduino, więc pomyslalem że spróboje.
+
+Jak to działa?
+Arduino może nadawać tylko dwa typy sygnału o mocy 5V albo 0 albo 1. Arduino nie potrafi sterować napięciem, ale tworząc przetwornik możemy kontrolować moc sygnałua a to umożliwia nam wyświetlenie jakiegoś obrazu itd na oscyloskopie.
+
 Projekt składa się z:
 - 1x Płytka Arduino Uno,
 - 10x Rezystor 10K Omów
@@ -8,6 +14,10 @@ Projekt składa się z:
 - Kabelki połączeniowe.
 
 Schemat połączenia: <img width="1386" height="695" alt="1" src="https://github.com/user-attachments/assets/e6b51923-950d-42ba-a704-11dec816ac41" /> (Schemat wykonany za pomocą https://www.tinkercad.com/)
+<h6>W ramach upewnienia to <img width="36" height="126" alt="image" src="https://github.com/user-attachments/assets/3d488bd9-75fc-4e64-9512-7bdeffca9ba2" /> jest rezystor 10kOmów a to <img width="26" height="92" alt="image" src="https://github.com/user-attachments/assets/04da0bb1-bc7a-4e81-894f-1d08f56b8f36" /> rezystor 4.7k Omów.
+
+</h6>
+
 <br>
 
 <h2>W tym repozytorium znajdują się skrypty, które wyświetlają obrazy na oscyloskopie</h2>
