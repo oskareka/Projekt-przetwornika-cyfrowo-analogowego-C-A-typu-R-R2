@@ -10,8 +10,10 @@ Projekt składa się z:
 Schemat połączenia: <img width="1386" height="695" alt="1" src="https://github.com/user-attachments/assets/e6b51923-950d-42ba-a704-11dec816ac41" /> (Schemat wykonany za pomocą https://www.tinkercad.com/)
 <br>
 
-O to przykładowy kod, rysujący kwadrad na oscyloskopie:
-<code>
+<h6>W tym repozytorium znajdują się skrypty, które wyświetlają obrazy na oscyloskopie</h6>
+Przykład:
+Ten skrypt wyświetla kwadrat.
+
 const int pinX[] = {2, 3, 4, 5};
 const int pinY[] = {8, 9, 10, 11};
 
@@ -59,4 +61,3 @@ void loop() {
     delayMicroseconds(50);
   }
 }
-</code>
