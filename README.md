@@ -10,7 +10,7 @@ Projekt składa się z:
 Schemat połączenia: <img width="1386" height="695" alt="1" src="https://github.com/user-attachments/assets/e6b51923-950d-42ba-a704-11dec816ac41" /> (Schemat wykonany za pomocą https://www.tinkercad.com/)
 <br>
 
-<h6>W tym repozytorium znajdują się skrypty, które wyświetlają obrazy na oscyloskopie</h6>
+<h2>W tym repozytorium znajdują się skrypty, które wyświetlają obrazy na oscyloskopie</h2>
 Przykład:
 Ten skrypt wyświetla kwadrat.
 
