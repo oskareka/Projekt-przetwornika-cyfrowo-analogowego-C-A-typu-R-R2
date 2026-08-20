@@ -13,7 +13,7 @@ Schemat połączenia: <img width="1386" height="695" alt="1" src="https://github
 <h6>W tym repozytorium znajdują się skrypty, które wyświetlają obrazy na oscyloskopie</h6>
 Przykład:
 Ten skrypt wyświetla kwadrat.
-
+<code>
 const int pinX[] = {2, 3, 4, 5};
 const int pinY[] = {8, 9, 10, 11};
 
